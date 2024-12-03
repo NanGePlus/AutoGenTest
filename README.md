@@ -5,7 +5,7 @@
 
 ## 1.2 AutoGen介绍
 AutoGen是微软发布的一个用于构建AI Agent系统的开源框架，简化了事件驱动、分布式、可扩展和弹性Agent应用程序的创建过程                     
-通过AutoGen可以快速构建AI Agent协作的系统并自主或在人类监督下执行任务
+通过AutoGen可以快速构建AI Agent协作的系统并自主或在人类监督下执行任务                      
 github地址:https://github.com/microsoft/autogen                               
 ### (1)版本      
 **AutoGen0.2**                  
@@ -42,7 +42,7 @@ Agent可以是分布式的，可以用不同的编程语言实现，同时还可
 **AgentChat:任务驱动型应用接口，autogen-agentchat**                      
 建立在Core核心层之上，抽象了许多底层系统概念                     
 允许定义会话Agent，将它们组织成Team，然后运行Team协作完成任务                      
-如果要是只想基于任务去构建Agent系统，可以从AgentChat可口开始                      
+如果要是只想基于任务去构建Agent系统，可以从AgentChat接口开始                      
 **Extensions:第三方系统接口，扩展包，autogen-ext**                    
 主要为第三方系统实现的核心接口，如OpenAI模型客户端接口等               
 除内置扩展外，该扩展包还容纳社区贡献的扩展接口                  
