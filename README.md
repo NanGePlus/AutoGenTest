@@ -3,7 +3,8 @@
 (1)AutoGen框架介绍                                                                             
 (2)AutoGen功能测试               
 相关视频:       
-https://youtu.be/jbEXvhWACqk                         
+https://www.bilibili.com/video/BV1tGzSYxEZe/                               
+https://youtu.be/jbEXvhWACqk                              
 
 ## 1.2 AutoGen介绍
 AutoGen是微软发布的一个用于构建AI Agent系统的开源框架，简化了事件驱动、分布式、可扩展和弹性Agent应用程序的创建过程                     
